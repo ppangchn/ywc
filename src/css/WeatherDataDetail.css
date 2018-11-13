@@ -1,0 +1,7 @@
+.weather-data-detail {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+  text-align: center;
+  border-right:1px solid #DEDEDE;
+  width: 11vw;
+}

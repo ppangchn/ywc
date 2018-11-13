@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Varela');
+@import url("https://fonts.googleapis.com/css?family=Kanit");
+body {
+  font-family: 'Varela', 'sans-serif','Kanit' !important;
+}

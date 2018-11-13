@@ -1,0 +1,38 @@
+img.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top {
+  top:400%;
+}
+.btn-blue {
+  background-color: rgb(0,25,108);
+  color: white;
+}
+.province-name {
+  font-size: 3vw;
+  color: rgb(0,25,108);
+}
+.select-city__control {
+  border: 2px solid rgb(0,25,108) !important;
+}
+.select-city__placeholder {
+  color: rgb(0,25,108) !important;
+}
+.select-city__single-value {
+  color: rgb(0,25,108) !important;
+}
+.weather-forecast-title {
+  font-size:3vw;
+  margin-bottom:20px;
+}

@@ -1,0 +1,14 @@
+.btn-white {
+  position: absolute;
+  top: 27vw;
+  left: 10%;
+  background-color: transparent;
+  color: white;
+  border-color: white !important;
+  font-weight: bold;
+}
+.btn-white:hover {
+  transition: 0.3s;
+  background-color: white;
+  color: black;
+}
